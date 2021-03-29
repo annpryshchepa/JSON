@@ -1,0 +1,22 @@
+{
+  "Content options": {
+    "id": "57fb7f48-4811-4640-b8ad-c5661a4aeb35",
+    "description": "Options like 'language', 'currency', ... in Header",
+    "active": false
+  },
+  "Search": {
+    "id": "7ee40c94-fd32-48ce-b278-6c5a37137795",
+    "description": "Opportunity to search for products by symbols...",
+    "active": false
+  },
+  "YouWillAlsoLove": {
+    "id": "f7554d7c-f529-4241-b854-a45e76b66fec",
+    "description": "Enables YouWillAlsoLove component functionality",
+    "active": false
+  },
+  "Edit Item button": {
+    "id": "25b46869-aa84-4660-a17b-c8abbf7af024",
+    "description": "Enables Edit button for product in CartPage component",
+    "active": false
+  }
+}
